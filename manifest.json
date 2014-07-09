@@ -11,6 +11,10 @@
       "lib/jquery-1.10.2.js", "background/background.js"
     ]
   },
+  "browser_action": {
+    "default_title": "Streamkeys",
+    "default_popup": "popup.html"
+  },
   "content_scripts": [
     {
       "matches": ["*://*.grooveshark.com/*"],
