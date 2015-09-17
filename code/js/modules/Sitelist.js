@@ -57,7 +57,7 @@
       "pleer": {name: "Pleer", url: "http://pleer.com", enabled: true},
       "plex": {name: "Plex", url: "http://www.plex.tv", enabled: true},
       "minecraftmac": {name: "MinecraftMac", url: "http://minecraftmac.com:32400", enabled: true},
-      "home02.spectful.com": {name: "home02.spectful.com", url: "http://home02.spectful.com", enabled: true},
+      "home02": {name: "Home02", url: "http://home02.spectful.com", enabled: true},
       "pocketcasts": {name: "Pocketcasts", url: "https://play.pocketcasts.com", enabled: true},
       "radioparadise": {name: "RadioParadise", url: "http://www.radioparadise.com", enabled: true},
       "radioswissjazz": {name: "RadioSwissJazz", url: "http://www.radioswissjazz.ch", enabled: true},
